@@ -2,7 +2,7 @@
 
 ## 🌳 Rule
 - 스터디는 매주 월-금 진행
-- 매일 선정한 CS 주제를 Wiki에 작성
+- 매일 선정한 CS 주제를 [Wiki](https://github.com/jiinse0/CS-Study/wiki/%F0%9F%93%9D-Study)에 작성
 - 학습한 CS는 정리 후 PR 생성
 - 학습 내용 공유는 자신이 이해한 내용을 가르치듯이 설명
 - 다른 팀원들이 이해하는 시간을 가진 후 질문 시간 가지
